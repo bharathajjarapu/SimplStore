@@ -1,2 +1,2 @@
-# SimplStore
-Developed a Full Stack E-Commerce Platform with AI
+# webathon2k25
+Ecommerce Platform
